@@ -1,23 +1,20 @@
 
-📝 Description
-This repository represents " ANALYZING THE GROWTH OF INDIAN STARTUPS ".
-With the help of this project we can detect & visualize the growth of indian startups based on various factors .
+📝 Description <br>
+This repository represents " ANALYZING THE GROWTH OF INDIAN STARTUPS ". <br>
+With the help of this project we can detect & visualize the growth of indian startups based on various factors .<br>
 
 
-⏳ Dataset
-Download the dataset for custom training
+⏳ Dataset <br>
+Download the dataset for custom training <br>
 https://drive.google.com/file/d/12P_VkKFBlhzRodCzQYQdGv00UzMZh6Dt/view?usp=sharing
 
 🖥️ Installation
-🛠️ Requirements
+🛠️ Requirements <br>
 Python 3.5+
 
-⚙️ Setup
+⚙️ Setup <br>
 Anaconda suite <br>
-Jupyter Notebook
+Jupyter Notebook <br>
 
-🎯 Inference demo
-📖 Please Go through Pose_With_Action_HLD2.docx for more info.
-
-Contributors 
-Shubham R Khule
+Contributors <br>
+Shubham R Khule <br>
