@@ -1,9 +1,8 @@
+
+📝 Description
 This repository represents " ANALYZING THE GROWTH OF INDIAN STARTUPS ".
 With the help of this project we can detect & visualize the growth of indian startups based on various factors .
 
-📝 Description
-This implemantation is based on official Alphapose repository https://github.com/MVIG-SJTU/AlphaPose
-In this project we have used Alphapose and XGBOOST for activity recognition.
 
 ⏳ Dataset
 Download the dataset for custom training
