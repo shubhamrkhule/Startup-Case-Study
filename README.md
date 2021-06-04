@@ -20,4 +20,4 @@ Jupyter Notebook <br>
 
 Contributors <br>
 ![image](https://user-images.githubusercontent.com/66060574/120833401-5f943900-c57f-11eb-825d-1d7d4c0c218a.png) <br>
-Shubham R Khule <br>
+<center> Shubham R Khule <br>
