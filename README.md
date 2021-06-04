@@ -13,7 +13,7 @@ https://drive.google.com/file/d/12P_VkKFBlhzRodCzQYQdGv00UzMZh6Dt/view?usp=shari
 Python 3.5+
 
 ⚙️ Setup
-Anaconda suite
+Anaconda suite <br>
 Jupyter Notebook
 
 🎯 Inference demo
