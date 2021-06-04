@@ -5,7 +5,7 @@ With the help of this project we can detect & visualize the growth of indian sta
 
 
 ⏳ Dataset <br>
-Download the dataset for custom training <br>
+Download the dataset from the below given link <br>
 https://drive.google.com/file/d/12P_VkKFBlhzRodCzQYQdGv00UzMZh6Dt/view?usp=sharing
 
 🖥️ Installation <br>
