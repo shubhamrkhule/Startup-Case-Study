@@ -8,7 +8,9 @@ With the help of this project we can detect & visualize the growth of indian sta
 Download the dataset for custom training <br>
 https://drive.google.com/file/d/12P_VkKFBlhzRodCzQYQdGv00UzMZh6Dt/view?usp=sharing
 
-🖥️ Installation
+🖥️ Installation <br>
+Any Python IDE is sufficient <br>
+
 🛠️ Requirements <br>
 Python 3.5+
 
